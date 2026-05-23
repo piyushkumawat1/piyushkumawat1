@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>→ Small web projects (like To-Do app, calculator, basic websites)<br><br>👯 I’m looking to collaborate on<br>→ Beginner-friendly web development or open-source projects<br><br>🤝 I’m looking for help with<br>→ Understanding backend (Node.js), APIs, and how web works<br><br>🌱 I’m currently learning<br>→ HTML, CSS, JavaScript, Git & GitHub, and Node.js basics<br><br>⚡ Fun fact<br>→ I love anime and enjoy understanding how technology works 🚀
+💫 About Me:
+
+🔭 Currently working on
+→ Building beginner-to-intermediate web development projects such as To-Do apps, calculators, responsive websites, and backend-integrated applications.
+
+🌱 Currently learning
+→ HTML, CSS, JavaScript, Git & GitHub, Node.js, APIs, and core programming fundamentals.
+→ Exploring how full-stack web development and modern technologies work behind the scenes.
+
+👯 Looking to collaborate on
+→ Beginner-friendly open-source projects, web development projects, and innovative tech ideas.
+
+🤝 Looking for help with
+→ Backend development, API integration, database concepts, and improving problem-solving skills in programming.
+
+💡 Interests
+→ Web Development • AI & Data Science • Open Source • Technology • Logical Thinking • Anime 🎌
+
+⚡ Fun fact
+→ I enjoy understanding how technology works internally and love combining creativity with coding to build useful projects 🚀
 
 
 ## 🌐 Socials:
