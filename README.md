@@ -25,9 +25,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=piyushkumawat1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=piyushkumawat1&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=piyushkumawat1&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/piyushkumawat1/piyushkumawat1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://komarev.com/ghpvc/?username=piyushkumawat1&icon=1&color=1)](https://visitcount.itsvg.in)
