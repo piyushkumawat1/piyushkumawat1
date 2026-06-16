@@ -40,10 +40,11 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=piyushkumawat1&theme=github_dark"/>
+[![](https://komarev.com/ghpvc/?username=piyushkumawat1&icon=1&color=1)](https://visitcount.itsvg.in)
+
 
 </div>
 ---
-[![](https://komarev.com/ghpvc/?username=piyushkumawat1&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
