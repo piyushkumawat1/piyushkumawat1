@@ -4,26 +4,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=while(!success)+%7B+keepCoding();+%7D;Turning+Coffee+Into+Code+%E2%98%95;React+%7C+Node.js+%7C+JavaScript;AI+%26+Data+Science+Explorer;Building+The+Future+One+Commit+At+A+Time" />
 </p>
 
-💫 About Me:
+## 🚀 Currently Building
 
-🔭 Currently working on
-→ Building beginner-to-intermediate web development projects such as To-Do apps, calculators, responsive websites, and backend-integrated applications.
+→ AI-powered applications, modern web experiences, and software that solves real-world problems.
 
-🌱 Currently learning
-→ HTML, CSS, JavaScript, Git & GitHub, Node.js, APIs, and core programming fundamentals.
-→ Exploring how full-stack web development and modern technologies work behind the scenes.
+## 🧠 Currently Exploring
 
-👯 Looking to collaborate on
-→ Beginner-friendly open-source projects, web development projects, and innovative tech ideas.
+→ Artificial Intelligence • AI Agents • RAG • System Design • Cloud Technologies • Developer Tools
 
-🤝 Looking for help with
-→ Backend development, API integration, database concepts, and improving problem-solving skills in programming.
+## 🤝 Open to Collaborate
 
-💡 Interests
-→ Web Development • AI & Data Science • Open Source • Technology • Logical Thinking • Anime 🎌
+→ AI projects, open-source contributions, developer tools, and innovative software products.
 
-⚡ Fun fact
-→ I enjoy understanding how technology works internally and love combining creativity with coding to build useful projects 🚀
+## 🎯 Current Focus
+
+→ Writing clean, scalable code, designing reliable systems, and building products with great user experience.
+
+## 💡 Interests
+
+→ Artificial Intelligence • Software Engineering • Open Source • Developer Experience • Automation • Cloud Computing • Emerging Technologies
+
+## 🌱 Always Learning
+
+→ Every project is an opportunity to master new technologies, improve engineering skills, and think beyond conventional solutions.
+
+## ⚡ Philosophy
+
+→ *Build with curiosity. Engineer with purpose. Learn without limits.*
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
