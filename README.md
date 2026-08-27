@@ -6,7 +6,6 @@
 </p>
 
 
-
 **🚀 Currently Building**
 AI-powered applications, modern web experiences, and software that solves real-world problems.
 
@@ -26,6 +25,7 @@ Artificial Intelligence • Software Engineering • Open Source • Automation 
 Every project is an opportunity to learn, improve, and engineer better solutions.
 
 **⚡ Philosophy**
+*Break down the chain*
 *Build with curiosity. Engineer with purpose. Learn without limits.*
 
 
