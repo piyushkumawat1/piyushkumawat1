@@ -6,10 +6,10 @@
 
 
 **🚀 Currently Building**
-AI-powered applications, modern web experiences, and software that solves real-world problems.
+AI-powered applications, modern web experiences, and software that solves real-world problems. and Ai learning 
 
 **🧠 Exploring**
-Artificial Intelligence • AI Agents • RAG • System Design • Cloud Technologies • Developer Tools
+Artificial Intelligence • AI Agents • RAG • System Design • Cloud Technologies • Developer Tools 
 
 **🤝 Open to Collaborate**
 Open-source projects • AI applications • Developer tools • Innovative software products
