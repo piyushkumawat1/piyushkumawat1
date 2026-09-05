@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Piyush Kumawat</h1>
 
 <p align="center">
@@ -7,7 +6,7 @@
 
 
 **🚀 Currently Building**
-AI-powered applications, modern web experiences, and software that solves real-world problems and make things .
+AI-powered applications, modern web experiences, and software that solves real-world problems and make things.
 
 **🧠 Exploring**
 Artificial Intelligence • AI Agents • RAG • System Design • Cloud Technologies • Developer Tools 
@@ -27,6 +26,7 @@ Every project is an opportunity to learn, improve, and engineer better solutions
 **⚡ Philosophy**
 *Break down the chain.*
 *Build with curiosity. Engineer with purpose. Learn without limits.*
+*Curious to learn to beyond limits.*
 
 # 💻 Tech Stack:
 
