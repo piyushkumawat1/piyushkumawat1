@@ -6,7 +6,7 @@
 
 
 **🚀 Currently Building**
-AI-powered applications, rag, agi, modern web experiences, and software that solves real-world problems and make things.
+AI-powered applications, rag, modern web experiences, and software that solves real-world problems and make things.
 
 **🧠 Exploring**
 Artificial Intelligence • AI Agents • RAG • System Design • Cloud Technologies • Developer Tools 
