@@ -4,7 +4,6 @@
 </p>
 
 **🚀 Currently Building**
-
 AI-powered applications, RAG, modern web experiences, and software that solves real-world problems and make things.
 **🧠 Exploring**
 Artificial Intelligence • AI Agents • RAG • System Design • Cloud Technologies • Developer Tools 
