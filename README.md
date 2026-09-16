@@ -3,13 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=while(!success)+%7B+keepCoding();+%7D;Turning+Coffee+Into+Code+%E2%98%95;React+%7C+Node.js+%7C+JavaScript;AI+%26+Data+Science+Explorer;Building+The+Future+One+Commit+At+A+Time" />
 </p>
 
-
-
 **🚀 Currently Building**
 AI-powered applications, RAG, modern web experiences, and software that solves real-world problems and make things.
 
+
+
 **🧠 Exploring**
-Artificial Intelligence • AI Agents • RAG • System Design • Cloud Technologies • Developer Tools 
+Artificial Intellig
+ence • AI Agents • RAG • System Design • Cloud Technologies • Developer Tools 
 
 **🤝 Open to Collaborate**
 Open-source projects • AI applications • Developer tools • Innovative software products
